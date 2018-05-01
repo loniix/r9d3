@@ -1,0 +1,34 @@
+{
+  "missions": [
+    {
+      "story_value": "Je suis beau.\nJe te donne 1 000 crédits pour...",
+      "story_author": "<@379345863903936522>"
+    },
+    {
+      "story_value": "Vous arrivez devant une belle maison en ruine, apparemment incendiée, vous y voyez un collier en pierres précieuses, mais les autorités arrivent, prendrez vous le risque?",
+      "story_author": "<@294507843724509186>"
+    },
+    {
+      "story_value": "Un villageois vêtis de vêtements déchirez cours vers vous. \n**Villageois** : Des personnes meurent là bas ! Des pillards nous attaques ! Aidez nous s'il vous plait !",
+      "story_author": "<@294507843724509186>"
+    }
+  ],
+  "xp": [
+    {
+      "user": "263350405348589568",
+      "xp": 213
+    },
+    {
+      "user": "353605724502228998",
+      "xp": 2
+    },
+    {
+      "user": "294507843724509186",
+      "xp": 47
+    },
+    {
+      "user": "379345863903936522",
+      "xp": 21
+    }
+  ]
+}
